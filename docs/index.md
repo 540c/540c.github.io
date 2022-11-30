@@ -3,8 +3,7 @@
 ## 近期文章
 - 正确统计字符个数
 - [讨论能不能使用“拼音”编程是伪命题](paper/讨论能不能使用“拼音”编程是伪命题.md)
-- 从一碗𰻝𰻝面（biáng biáng miàn）开始聊一聊字符编码
-- [测试](paper/测试.md)
+- [从一碗𰻝𰻝面（biáng biáng miàn）开始聊一聊字符编码](paper/从一碗biangbiang面开始聊一聊字符编码.md)
 
 ## 正在参与的项目
 - Proposal to encode the pictograph Wuyue Zhenxing Tu(Fu) Characters
