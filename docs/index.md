@@ -2,9 +2,13 @@
 
 ## 近期文章
 - [中文信息处理指南（GB18030-2022）](paper/中文信息处理指南.md)
-- [GB 18030-2022 实现级别2 增补汉字清单](paper/GB18030-2022实现级别2增补汉字.md)
 - [讨论能不能使用“拼音”编程是伪命题](paper/讨论能不能使用“拼音”编程是伪命题.md)
 - [从一碗𰻝𰻝面（biáng biáng miàn）开始聊一聊字符编码](paper/从一碗biangbiang面开始聊一聊字符编码.md)
+
+## 数据库
+- [GB 18030-2022 实现级别2 增补汉字清单](paper/GB18030-2022实现级别2增补汉字.md)
+- [推荐使用外语词规范中文译名表](paper/推荐使用外语词规范中文译名.md)
+
 
 ## 正在参与的项目
 - Proposal to encode the pictograph Wuyue Zhenxing Tu(Fu) Characters
