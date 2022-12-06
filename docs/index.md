@@ -26,5 +26,5 @@
 - 信息技术领域全球化与本地化实践 [2022/03/15]
 
 ## 其他贡献
--  ▛▚▞▟智能科技有限公司初级讲师
--  Unicode Lifetime Individual Memberships
+- ▛▚▞▟智能科技有限公司初级讲师
+- Unicode Lifetime Individual Memberships
