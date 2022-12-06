@@ -19,12 +19,12 @@
   - 2022/07/19 [L2/22-209](https://www.unicode.org/L2/L2022/22209-wuyue-zhenxing-tu-fu.pdf)
 
 ## 工作中的分享和课程
-- 信息无障碍 Information Accessibility `yyyy/mm/dd`
-- 代码审查（Code Review）经验浅谈 `:date: 2022/07/08`
-- MySQL（InnoDB）排序和存储原理 `:date: 2022/06/07`
-- WEB网站开发全流程技术介绍 `:date: 2022/04/24`
-- 信息技术领域全球化与本地化实践 `:date: 2022/03/15`
+- 信息无障碍 Information Accessibility [yyyy/mm/dd]
+- 代码审查（Code Review）经验浅谈 [2022/07/08]
+- MySQL（InnoDB）排序和存储原理 [2022/06/07]
+- WEB网站开发全流程技术介绍 [2022/04/24]
+- 信息技术领域全球化与本地化实践 [2022/03/15]
 
 ## 其他贡献
-- ▛▚▞▟智能科技有限公司初级讲师
-- Unicode Lifetime Individual Memberships
+- :reminder_ribbon: ▛▚▞▟智能科技有限公司初级讲师
+- :reminder_ribbon: Unicode Lifetime Individual Memberships
