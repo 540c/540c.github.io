@@ -1,4 +1,11 @@
+@import "{{ site.theme }}";
+
 @font-face {
     font-family: 'PUALogoRegular';
     src: url("../font/PUA-LOGO-Regular.otf") format("opentype");
+}
+
+
+body {
+  font-family: "PUALogoRegular";
 }
