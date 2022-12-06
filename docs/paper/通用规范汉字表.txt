@@ -1,9 +1,9 @@
 ; 《通用规范汉字表》
-; 行格式：字段0TAB字段1TAB字段2TAB字段3
-; 字段0 汉字
-; 字段1 等级（一级、二级、三级）
-; 字段2 Unicode Code Point
-; 字段3 字集 查阅 Unicode Han Database(Unihan) https://www.unicode.org/reports/tr38/
+; 行格式：字段0 TAB 字段1 TAB 字段2 TAB 字段3
+; 字段 0 汉字
+; 字段 1 等级（一级、二级、三级）
+; 字段 2 Unicode Code Point
+; 字段 3 字集 查阅 Unicode Han Database(Unihan) https://www.unicode.org/reports/tr38/
 一	一级	4E00	Base
 乙	一级	4E59	Base
 二	一级	4E8C	Base
