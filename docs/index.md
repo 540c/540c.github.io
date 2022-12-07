@@ -1,7 +1,7 @@
 # 这里会写一些技术（划水）文章
 
 ## 近期文章
-- [Unicode归类算法（Unicode Collation Algorithm）](paper/Unicode-Collation-Algorithm.md)
+- [Unicode归类算法（Unicode Collation Algorithm）ISO/IEC 14651](paper/Unicode-Collation-Algorithm.md)
 - [前、中、后缀表达式](paper/前中后缀表达式.md)
 - [标准和字符集术语释义](paper/标准和字符集术语释义.md)
 - [中文信息处理指南（GB18030-2022）](paper/中文信息处理指南.md)
