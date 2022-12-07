@@ -13,7 +13,7 @@
   - [GB 18030-2022 实现级别2 增补汉字清单](paper/GB18030-2022实现级别2增补汉字.md)
 - [推荐使用外语词规范中文译名表](paper/推荐使用外语词规范中文译名.md)
 - [国家通用语言文字相关法律法规和标准](paper/国家通用语言文字相关法律法规和标准.md)
-- [私人私用区分配方案](paper/私用区映射分配方案.md)
+- [私人使用区映射分配方案](paper/私用区映射分配方案.md)
 
 ## 正在参与的项目
 - Proposal to encode the pictograph Wuyue Zhenxing Tu(Fu) Characters
