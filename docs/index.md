@@ -21,9 +21,9 @@
 ## 正在参与（关注）的项目
 - Proposal to encode the pictograph Wuyue Zhenxing Tu(Fu) Characters
   - 2022/07/19 [L2/22-209](https://www.unicode.org/L2/L2022/22209-wuyue-zhenxing-tu-fu.pdf)
-- 中文排版需求 Requirements for Chinese Text Layout [ Github](https://github.com/w3c/clreq) [W3C Mail Archives](https://lists.w3.org/Archives/Public/public-i18n-chinese/)
+- 中文排版需求 Requirements for Chinese Text Layout [ Github](https://github.com/w3c/clreq) [[W3C Mail Archives]](https://lists.w3.org/Archives/Public/public-i18n-chinese/)
 
-## 工作中的分享和课程 _
+## 工作中的分享和课程 
 - 信息无障碍 Information Accessibility [yyyy/mm/dd]
 - 代码审查（Code Review）经验浅谈 [2022/07/08]
 - MySQL（InnoDB）排序和存储原理 [2022/06/07]
