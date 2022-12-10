@@ -9,7 +9,8 @@
 - [从一碗𰻝𰻝面（biáng biáng miàn）开始聊一聊字符编码](paper/从一碗biangbiang面开始聊一聊字符编码.md)
   - [⚠️Unicode归类算法（Unicode Collation Algorithm）ISO/IEC 14651](paper/unicode/Unicode-Collation-Algorithm.md)
   - [标准和字符集术语释义](paper/标准和字符集术语释义.md)
-  - [Unicode 控制字符](paper/unicode/unicode-control-characters.md)
+  - [⚠️Unicode 控制字符](paper/unicode/unicode-control-characters.md)
+  - [⚠️视觉安全问题](paper/unicode/视觉安全问题.md)
 
 
 ## 数据库
