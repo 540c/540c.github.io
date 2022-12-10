@@ -134,14 +134,11 @@ IDS_TrinaryOperator:= ⿲ | ⿳
 [^11]: 可参考𰻞的编码历史。如何看待 Unicode 13 收录 biang（U+30EDE）字？ - 知乎[EB/OL]. [2022-11-10]. https://www.zhihu.com/question/49830245/answer/1318940122.
 [^12]: Combined CD registration and consideration ballot on WD for 10646-1/Amd. 28, Information technology - Universal Multiple-Octet Coded Character Set (UCS) - Part 1: Architecture and Basic Multilingual Plane -- AMENDMENT 28: Ideographic description characters https://www.unicode.org/L2/L1998/02n3186.pdf
 [^13]: BabelStone : CJK[EB/OL]. [2022-11-10]. https://www.babelstone.co.uk/CJK/.
-[^14]: The Unicode® Standard
-
-Version 15.0 – Core Specification [EB/OL]. [2022-11-12]. https://www.unicode.org/versions/Unicode15.0.0/. The Unicode® Standard 15.0:761
-
+[^14]: The Unicode® Standard Version 15.0 – Core Specification [EB/OL]. [2022-11-12]. https://www.unicode.org/versions/Unicode15.0.0/. The Unicode® Standard 15.0:761
 [^15]: FAQ - Private-Use Characters, Noncharacters, and Sentinels[EB/OL]. [2022-11-11]. https://www.unicode.org/faq/private_use.html.
 [^16]: Roadmap to the BMP[EB/OL]. [2022-11-10]. https://www.unicode.org/roadmaps/bmp/.
 [^17]: 在iOS系统中，Apple将U+F8FF映射为Apple的品牌标识
-[^18]: OpenType fonts features | Adobe Type[EB/OL]. [2022-11-11]. https://www.adobe.com/products/type/opentype.html.
+[^18]: OpenType fonts features Adobe Type[EB/OL]. [2022-11-11]. https://www.adobe.com/products/type/opentype.html.
 [^19]: 本文中笔者使用Glyphr Studio软件设计并创建字体。Glyphr Studio - font design, online[EB/OL]. [2022-11-10]. https://www.glyphrstudio.com/.
 [^20]: 根据《▙▚▚▜ ▛▚▞▟品牌视觉指导手册2.0中文版CN》之标准创建此字形
 [^21]: Insert ASCII or Unicode character codes in Word[EB/OL]. [2022-11-10]. https://support.microsoft.com/en-us/office/insert-ascii-or-unicode-character-codes-in-word-e97306f7-00c1-490d-9920-c924ca443f87.
