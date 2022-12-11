@@ -7,15 +7,17 @@
   - [⚠️中文排版](paper/中文信息处理/中文排版.md)
 - [讨论能不能使用“拼音”编程是伪命题](paper/讨论能不能使用“拼音”编程是伪命题.md)
 - [从一碗𰻝𰻝面（biáng biáng miàn）开始聊一聊字符编码](paper/从一碗biangbiang面开始聊一聊字符编码.md)
-  - [⚠️Unicode归类算法（Unicode Collation Algorithm）ISO/IEC 14651](paper/unicode/Unicode-Collation-Algorithm.md)
+  - [⚠️Unicode归类算法（Unicode Collation Algorithm）ISO/IEC 14651](paper/unicode/unicode-collation-algorithm.md)
   - [标准和字符集术语释义](paper/标准和字符集术语释义.md)
   - [⚠️Unicode 控制字符](paper/unicode/unicode-control-characters.md)
   - [⚠️视觉安全问题](paper/unicode/视觉安全问题.md)
+- [一些产品设计的约定](paper/一些产品设计的约定.md)
 
 
 ## 数据库
 - [《通用规范汉字表》数据库](paper/通用规范汉字表数据库.md) 
   - [GB 18030-2022 实现级别2 增补汉字清单](paper/GB18030-2022实现级别2增补汉字.md)
+  - [《中日韩共用常见汉字表》](paper/通用规范汉字表数据库.md)
 - [推荐使用外语词规范中文译名表](paper/推荐使用外语词规范中文译名.md)
 - [国家通用语言文字相关法律法规和标准](paper/国家通用语言文字相关法律法规和标准.md)
 - [私人使用区映射分配方案](paper/私用区映射分配方案.md)
