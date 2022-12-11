@@ -11,7 +11,7 @@
   - [标准和字符集术语释义](paper/标准和字符集术语释义.md)
   - [⚠️Unicode 控制字符](paper/unicode/unicode-control-characters.md)
   - [⚠️视觉安全问题](paper/unicode/视觉安全问题.md)
-- [一些产品设计的约定](paper/一些产品设计的约定.md)
+- [⚠️一些产品设计的约定](paper/一些产品设计的约定.md)
 
 
 ## 数据库
