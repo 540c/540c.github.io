@@ -28,7 +28,7 @@
 - 中文排版需求 Requirements for Chinese Text Layout [ Github](https://github.com/w3c/clreq) [[W3C Mail Archives]](https://lists.w3.org/Archives/Public/public-i18n-chinese/)
 
 ## 工作中的分享和课程 
-- 信息无障碍 Information Accessibility [yyyy/mm/dd]
+- [ 信息无障碍 Information Accessibility](paper/专题/信息无障碍/目录.md) [yyyy/mm/dd]
 - 代码审查（Code Review）经验浅谈 [2022/07/08]
 - MySQL（InnoDB）排序和存储原理 [2022/06/07]
 - WEB网站开发全流程技术介绍 [2022/04/24]
