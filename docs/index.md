@@ -12,6 +12,7 @@
   - [⚠️Unicode 控制字符](paper/unicode/unicode-control-characters.md)
   - [⚠️视觉安全问题](paper/unicode/视觉安全问题.md)
 - [⚠️一些产品设计的约定](paper/一些产品设计的约定.md)
+- [代码审查清单](paper/规范/代码审查清单.md)
 
 
 ## 数据库
