@@ -1,20 +1,23 @@
 # 这里会写一些技术（划水）文章
 
 ## 近期文章
-- [⚠️从「TA」谈起](paper/从TA谈起.md)
-- [前、中、后缀表达式](paper/前中后缀表达式.md)
 - [中文信息处理指南（GB18030-2022）](paper/中文信息处理指南.md)
   - [⚠️中文排版](paper/中文信息处理/中文排版.md)
-- [讨论能不能使用“拼音”编程是伪命题](paper/讨论能不能使用“拼音”编程是伪命题.md)
 - [从一碗𰻝𰻝面（biáng biáng miàn）开始聊一聊字符编码](paper/从一碗biangbiang面开始聊一聊字符编码.md)
   - [⚠️Unicode归类算法（Unicode Collation Algorithm）ISO/IEC 14651](paper/unicode/unicode-collation-algorithm.md)
   - [标准和字符集术语释义](paper/标准和字符集术语释义.md)
   - [⚠️Unicode 控制字符](paper/unicode/unicode-control-characters.md)
   - [常用控制字符及用途](paper/unicode/常用控制字符及用途.md)
-  - [⚠️视觉安全问题](paper/unicode/视觉安全问题.md)
-- [⚠️一些产品设计的约定](paper/一些产品设计的约定.md)
-- [代码审查清单](paper/规范/代码审查清单.md)
-
+  - [⚠️视觉安全问题（所见非所得带来的视觉欺骗）](paper/unicode/视觉安全问题.md)
+- 产品设计
+  - [⚠️一些产品设计的约定](paper/一些产品设计的约定.md)
+  - [⚠️从「TA」谈起](paper/从TA谈起.md)
+  - [ 信息无障碍 Information Accessibility](paper/专题/信息无障碍/目录.md)
+- 编程规范
+  - [讨论能不能使用「拼音」编程是伪命题](paper/讨论能不能使用“拼音”编程是伪命题.md)
+  - [代码审查清单](paper/规范/代码审查清单.md)
+- 基础知识
+  - [前、中、后缀表达式](paper/前中后缀表达式.md)
 
 ## 数据库
 - [《通用规范汉字表》数据库](paper/通用规范汉字表数据库.md) 
@@ -30,7 +33,7 @@
   - 2022/07/10 
 - 中文排版需求 Requirements for Chinese Text Layout [ Github](https://github.com/w3c/clreq) [[W3C Mail Archives]](https://lists.w3.org/Archives/Public/public-i18n-chinese/)
 
-## 分享和课程 
+##  分享和课程
 
 |类型|主题|日期|
 |-|-|-|
