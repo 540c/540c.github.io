@@ -5,7 +5,7 @@
 - [前、中、后缀表达式](paper/前中后缀表达式.md)
 - [中文信息处理指南（GB18030-2022）](paper/中文信息处理指南.md)
   - [⚠️中文排版](paper/中文信息处理/中文排版.md)
-- [讨论能不能使用“拼音”编程是伪命题](paper/讨论能不能使用“拼音”编程是伪命题.md)
+- [讨论能不能使用「拼音」编程是伪命题](paper/讨论能不能使用“拼音”编程是伪命题.md)
 - [从一碗𰻝𰻝面（biáng biáng miàn）开始聊一聊字符编码](paper/从一碗biangbiang面开始聊一聊字符编码.md)
   - [⚠️Unicode归类算法（Unicode Collation Algorithm）ISO/IEC 14651](paper/unicode/unicode-collation-algorithm.md)
   - [标准和字符集术语释义](paper/标准和字符集术语释义.md)
@@ -30,7 +30,7 @@
   - 2022/07/10 
 - 中文排版需求 Requirements for Chinese Text Layout [ Github](https://github.com/w3c/clreq) [[W3C Mail Archives]](https://lists.w3.org/Archives/Public/public-i18n-chinese/)
 
-## 分享和课程 
+##  分享和课程
 
 |类型|主题|日期|
 |-|-|-|
