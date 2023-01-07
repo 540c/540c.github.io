@@ -4,18 +4,22 @@
 
 ## 近期文章
 
-- [中文信息处理指南（GB18030-2022）](paper/中文信息处理指南.md)
-  - [⚠️中文排版](paper/中文信息处理/中文排版.md)
-- [从一碗𰻝𰻝面（biáng biáng miàn）开始聊一聊字符编码](paper/从一碗biangbiang面开始聊一聊字符编码.md)
-  - [⚠️Unicode归类算法（Unicode Collation Algorithm）ISO/IEC 14651](paper/unicode/unicode-collation-algorithm.md)
+- 中文信息处理
+  - [中文信息处理指南（GB18030-2022）](paper/中文信息处理指南.md)
+  - [中文排版（未竟）](paper/中文信息处理/中文排版.md)
+  
+- 编码与字符集
+  - [从一碗𰻝𰻝面（biáng biáng miàn）开始聊一聊字符编码](paper/从一碗biangbiang面开始聊一聊字符编码.md)
+  - [Unicode归类算法（Unicode Collation Algorithm）ISO/IEC 14651（未竟）](paper/unicode/unicode-collation-algorithm.md)
   - [标准和字符集术语释义](paper/标准和字符集术语释义.md)
-  - [⚠️Unicode 控制字符](paper/unicode/unicode-control-characters.md)
+  - [Unicode 控制字符（未竟）](paper/unicode/unicode-control-characters.md)
   - [常用控制字符及用途](paper/unicode/常用控制字符及用途.md)
-  - [⚠️视觉安全问题（所见非所得带来的视觉欺骗）](paper/unicode/视觉安全问题.md)
-  - [国际化域名(IDNA)和国际化资源标识符(IRIs)](paper/unicode/国际化域名和国际化资源标识符.md)
+  - [视觉安全问题——所见非所得带来的视觉欺骗（未竟）](paper/unicode/视觉安全问题.md)
+  - [国际化域名(IDNA)和国际化资源标识符(IRIs)（未竟）](paper/unicode/国际化域名和国际化资源标识符.md)
+
 - 产品设计
-  - [⚠️一些产品设计的约定](paper/一些产品设计的约定.md)
-  - [⚠️从「TA」谈起](paper/从TA谈起.md)
+  - [一些产品设计的约定（未竟）](paper/一些产品设计的约定.md)
+  - [从「TA」谈起（未竟）](paper/从TA谈起.md)
   - [ 信息无障碍 Information Accessibility](paper/专题/信息无障碍/目录.md)
 - 编程规范
   - [讨论能不能使用「拼音」编程是伪命题](paper/讨论能不能使用“拼音”编程是伪命题.md)
